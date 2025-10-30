@@ -5,3 +5,5 @@ Oct 30 at 1:50 PM: CLI or app that only says No. and tracks days where you haven
 
 Oct 30 at 1:51 PM: Instagram template exporter so when browsing instagram on the web, you have a button that automatically records the video, saves the music from the template, and throws it in your saved templates
 
+Oct 30 at 1:51 PM: app only for ideas like this
+
