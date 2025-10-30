@@ -19,3 +19,5 @@
 
 9. book tracking github cli tool
 
+10. get AI gen cat meme account up and running to test the entire AI gen workflow
+
