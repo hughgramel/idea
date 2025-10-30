@@ -21,3 +21,6 @@
 
 10. get AI gen cat meme account up and running to test the entire AI gen workflow
 
+11. the app youre never supposed to use: an app where you start with a github like view of the rest of the year being perfect where you havent done any of the bad habits you want to break. going on the website/app you only can log that youve done it. 
+
+
