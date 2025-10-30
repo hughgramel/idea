@@ -15,3 +15,5 @@
 
 7. meal prep business on campus where the meals are delivered to a locked fridge and you can pick it up
 
+8. cat business where you sell those goofy ah cat bowls that I saw on reels, contact instagram accounts and give them 20% of the revenue for a quality product
+
