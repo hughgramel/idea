@@ -15,19 +15,22 @@ if (!ideaText) {
 // Path to ideas.md in the package directory
 const ideasFile = path.join(__dirname, '..', 'ideas.md');
 
-// Get current timestamp in human-readable format
-const now = new Date();
-const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-const month = months[now.getMonth()];
-const day = now.getDate();
-const hours = now.getHours();
-const minutes = now.getMinutes().toString().padStart(2, '0');
-const ampm = hours >= 12 ? 'PM' : 'AM';
-const displayHours = hours % 12 || 12;
-const timestamp = `${month} ${day} at ${displayHours}:${minutes} ${ampm}`;
+// Read the current file to count existing ideas
+let content = '';
+let ideaNumber = 1;
+try {
+  content = fs.readFileSync(ideasFile, 'utf8');
+  // Count existing numbered ideas
+  const matches = content.match(/^\d+\. /gm);
+  if (matches) {
+    ideaNumber = matches.length + 1;
+  }
+} catch (error) {
+  // File doesn't exist yet, start at 1
+}
 
 // Format the idea entry
-const entry = `${timestamp}: ${ideaText}\n\n`;
+const entry = `${ideaNumber}. ${ideaText}\n\n`;
 
 // Append to ideas.md
 fs.appendFileSync(ideasFile, entry);
