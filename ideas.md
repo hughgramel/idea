@@ -24,3 +24,5 @@
 11. the app youre never supposed to use: an app where you start with a github like view of the rest of the year being perfect where you havent done any of the bad habits you want to break. going on the website/app you only can log that youve done it. 
 
 
+12. completley private journalling CLI app that also can connect to a basic web frontend through docker or localhost3000
+
