@@ -24,7 +24,7 @@ idea Build a CLI tool for storing ideas
 ```
 
 This will:
-1. Append your idea with a timestamp to `ideas.md`
+1. Append your idea as a numbered entry to `ideas.md`
 2. Automatically commit and push to GitHub (if configured)
 
 ## Setup
@@ -33,7 +33,7 @@ After cloning this repository:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/hughgramelspacher/idea.git
+git clone https://github.com/hughgramel/idea.git
 cd idea
 ```
 
@@ -49,10 +49,14 @@ Now you can use `idea` from anywhere on your system!
 
 ## Ideas Storage
 
-All ideas are stored in `ideas.md` with timestamps. Each entry follows this format:
+All ideas are stored in `ideas.md` as a numbered list. Each entry follows this format:
 
 ```
-- [2025-10-30T12:34:56.789Z] Your idea text here
+1. Your first idea here
+
+2. Your second idea here
+
+3. Your third idea here
 ```
 
 ## License
