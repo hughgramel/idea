@@ -13,3 +13,5 @@
 6. journalling app or CLI tool that focuses on giving your future self instructions for what to do better the next time you live this day. Stuff like dont each mcDonalds next time, dont get on instagram reels, and then we can analyze what were regretting a lot. 
 
 
+7. meal prep business on campus where the meals are delivered to a locked fridge and you can pick it up
+
