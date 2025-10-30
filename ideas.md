@@ -7,3 +7,5 @@ Oct 30 at 1:51 PM: Instagram template exporter so when browsing instagram on the
 
 Oct 30 at 1:51 PM: app only for ideas like this
 
+Oct 30 at 1:52 PM: A programming language that treats Minecraft redstone like circuit design—kids write code to define farm logic and automation systems, then the compiler generates the actual block layouts and wiring
+
