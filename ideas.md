@@ -17,3 +17,5 @@
 
 8. cat business where you sell those goofy ah cat bowls that I saw on reels, contact instagram accounts and give them 20% of the revenue for a quality product
 
+9. book tracking github cli tool
+
