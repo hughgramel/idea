@@ -27,7 +27,7 @@ const displayHours = hours % 12 || 12;
 const timestamp = `${month} ${day} at ${displayHours}:${minutes} ${ampm}`;
 
 // Format the idea entry
-const entry = `${timestamp}: ${ideaText}\n`;
+const entry = `${timestamp}: ${ideaText}\n\n`;
 
 // Append to ideas.md
 fs.appendFileSync(ideasFile, entry);
