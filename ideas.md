@@ -26,3 +26,5 @@
 
 12. completley private journalling CLI app that also can connect to a basic web frontend through docker or localhost3000
 
+13. run every day with another mile added each day
+
