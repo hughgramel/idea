@@ -42,3 +42,5 @@
 
 20. mcp server for ambira
 
+21. connect the ideas cli tool to apple notes
+
