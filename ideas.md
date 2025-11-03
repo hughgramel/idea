@@ -44,3 +44,5 @@
 
 21. connect the ideas cli tool to apple notes
 
+22. ambira discord bot that connects to ambira and posts for you to make it very easy
+
