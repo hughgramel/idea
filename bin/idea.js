@@ -5,15 +5,35 @@ const path = require('path');
 const { execSync } = require('child_process');
 
 // Get the idea text from command line arguments
-const ideaText = process.argv.slice(2).join(' ');
-
-if (!ideaText) {
-  console.log('Usage: idea <your idea here>');
-  process.exit(1);
-}
+const args = process.argv.slice(2);
+const firstArg = args[0];
 
 // Path to ideas.md in the package directory
 const ideasFile = path.join(__dirname, '..', 'ideas.md');
+
+// Function to list all ideas
+function listIdeas() {
+  try {
+    const content = fs.readFileSync(ideasFile, 'utf8');
+    console.log(content);
+  } catch (error) {
+    console.log('No ideas found yet. Start adding ideas with: idea <your idea here>');
+  }
+  process.exit(0);
+}
+
+// Check for list command
+if (firstArg === '-list' || firstArg === '-l' || firstArg === '--list') {
+  listIdeas();
+}
+
+const ideaText = args.join(' ');
+
+if (!ideaText) {
+  console.log('Usage: idea <your idea here>');
+  console.log('       idea -list (or -l) to list all ideas');
+  process.exit(1);
+}
 
 // Read the current file to count existing ideas
 let content = '';
