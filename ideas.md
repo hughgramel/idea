@@ -32,3 +32,5 @@
 
 15. sleep CLI tool where you just say sleep 5 and that means your sleep was a 5 out of 10, or we could do slept 10 meaning we went to bed at 10
 
+16. more CLI tools in general
+
