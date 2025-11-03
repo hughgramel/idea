@@ -28,3 +28,5 @@
 
 13. run every day with another mile added each day
 
+14. create a CLI tool similar to the idea thing but for journal, x post, remindme, todo instead of the lifelog thing which is all of these in one
+
