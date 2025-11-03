@@ -46,3 +46,5 @@
 
 22. ambira discord bot that connects to ambira and posts for you to make it very easy
 
+23. X bot where it shows you a post on the terminal, you have 5 seconds to reply via voice, then it adjusts your resposne and replies. 10 minutes is 60 replies. Then same thing with posts: you are given a random topic related to your niche and you have 30 seconds to flesh out your thoughts, and then a local AI, or connected api, synthesizes your thoughts and makes the post for you. makes x posting as simple as sitting in front of your computer, and you are basically reading letters and dictating them to your secretary like napoleon
+
