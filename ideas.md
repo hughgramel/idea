@@ -30,3 +30,5 @@
 
 14. create a CLI tool similar to the idea thing but for journal, x post, remindme, todo instead of the lifelog thing which is all of these in one
 
+15. sleep CLI tool where you just say sleep 5 and that means your sleep was a 5 out of 10, or we could do slept 10 meaning we went to bed at 10
+
