@@ -36,3 +36,5 @@
 
 17. CLI tool to type in everything you are doing manually and for it to serve as a list of things to automate in your workflow
 
+18. fix the idea tool to have a command to list all ideas and also accept special characters
+
