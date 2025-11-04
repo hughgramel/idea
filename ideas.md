@@ -54,3 +54,5 @@
 
 26. Google search data electoral college graph (e.g. chappel roan vs jelly roll based on which states have more and which would win the presidential election based on that)
 
+27. open source podcast generation based on pdfs; e.g. you upload research papers and it turns it into a podcast like video. could use this with class material for ENTRE class on spotify + youtube
+
