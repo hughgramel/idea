@@ -50,3 +50,5 @@
 
 24. snack overflow but for startup hall
 
+25. clash of clans script that uses agentic AI to perform a list of actions in my vilalge
+
