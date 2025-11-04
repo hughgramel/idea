@@ -56,3 +56,5 @@
 
 27. open source podcast generation based on pdfs; e.g. you upload research papers and it turns it into a podcast like video. could use this with class material for ENTRE class on spotify + youtube
 
+28. terminal sticker like steven has
+
