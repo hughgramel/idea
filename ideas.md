@@ -52,3 +52,5 @@
 
 25. clash of clans script that uses agentic AI to perform a list of actions in my vilalge
 
+26. Google search data electoral college graph (e.g. chappel roan vs jelly roll based on which states have more and which would win the presidential election based on that)
+
