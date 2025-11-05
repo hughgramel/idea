@@ -62,3 +62,5 @@
 
 30. pivot ambira to be more like the study with me social network
 
+31. poster that says decide on three things at the start: the rules of the game, the stakes, and the quitting time
+
