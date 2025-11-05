@@ -60,3 +60,5 @@
 
 29. make twitch stream for working on projects or ambira
 
+30. pivot ambira to be more like the study with me social network
+
