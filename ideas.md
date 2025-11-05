@@ -58,3 +58,5 @@
 
 28. terminal sticker like steven has
 
+29. make twitch stream for working on projects or ambira
+
