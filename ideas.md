@@ -64,3 +64,5 @@
 
 31. poster that says decide on three things at the start: the rules of the game, the stakes, and the quitting time
 
+32. NYT the mini 1v1 but its an app and theres ELO and leagues and stuff and you can challenge people to them
+
