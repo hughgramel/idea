@@ -66,3 +66,5 @@
 
 32. NYT the mini 1v1 but its an app and theres ELO and leagues and stuff and you can challenge people to them
 
+33. make system e.g. make an account that posts indefinitely
+
