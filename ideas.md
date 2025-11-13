@@ -68,3 +68,5 @@
 
 33. make system e.g. make an account that posts indefinitely
 
+34. make system e.g. make an account like catclubandco where the content is similar and you just generate and post a few things each dauy
+
