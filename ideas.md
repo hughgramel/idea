@@ -72,3 +72,5 @@
 
 35. hoi4 like tree but a tree of AI generated podcast that expand on a subject like the 16th century or history
 
+36. hoi4 like tree but for schedules and life goals
+
