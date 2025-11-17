@@ -70,3 +70,5 @@
 
 34. make system e.g. make an account like catclubandco where the content is similar and you just generate and post a few things each dauy
 
+35. hoi4 like tree but a tree of AI generated podcast that expand on a subject like the 16th century or history
+
