@@ -80,3 +80,5 @@
 
 39. -r 37
 
+40. studyclans or study clans where you have people join, study competitively with your group, level up in clans, focus on competitive and leveling up aspect, coins, military, growth, focumon but clans, mines, growth, war, etc
+
