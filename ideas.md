@@ -84,3 +84,5 @@
 
 41. web scraper and selector that takes UI elements and plugs them into canvas so we can generate images using it on discord or sth
 
+42. discord scraping bot that goes through entry points and finds and tries to join all servers attached off of that and then makes a bubble chart of it
+
