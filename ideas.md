@@ -86,3 +86,5 @@
 
 42. discord scraping bot that goes through entry points and finds and tries to join all servers attached off of that and then makes a bubble chart of it
 
+43. button to use for wispr flow that triggers fn
+
