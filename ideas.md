@@ -92,3 +92,5 @@
 
 45. clone migaku YT audio to subtitle feature
 
+46. Open-source AI-generated voice models that pretty much just generate a lesson based on words you already know and then just choose 5-10 words that you need to learn and then incorporate them into a comprehensive 20-25 minute podcast lesson that you can essentially just use to learn those words while just driving in a car.
+
