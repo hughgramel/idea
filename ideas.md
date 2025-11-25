@@ -102,3 +102,5 @@
 
 50. -r 47
 
+51. book logging but on github and with a website that auto pushes
+
