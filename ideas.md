@@ -104,3 +104,5 @@
 
 51. book logging but on github and with a website that auto pushes
 
+52. cli tool for analytics based learning: e.g. the user types learn and then records what they learned from a book or YT video or course writing
+
