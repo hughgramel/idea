@@ -106,3 +106,5 @@
 
 52. cli tool for analytics based learning: e.g. the user types learn and then records what they learned from a book or YT video or course writing
 
+53. Website that converts a project idea or project to mind map/assignments for you for coding specifically. To go against the trend of live coding and show you how to learn stuff
+
